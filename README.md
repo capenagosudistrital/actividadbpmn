@@ -2,7 +2,7 @@
 
 #Actividad BPMN 
 
-#Modelo inicial de un BPMN
+#Modelo inicial de un BPMN sobre el proceso de gestión de un requerimiento
 
 #Modelo desarrollado en Camunda.io de manera virtual
 
