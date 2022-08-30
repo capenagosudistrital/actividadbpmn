@@ -6,5 +6,5 @@
 
 #Modelo desarrollado en Camunda.io de manera virtual
 
-#Participante 1: Carlos Andres Penagos Cortes - Codigo: 
-#Participante 2: Oscar Gilberto Mejia Daza - Codigo: 20221099009
+#Participante 1: Carlos Andres Penagos Cortes - Codigo:20221099013 
+#Participante 2: Oscar Gilberto Mejia Daza - Codigo:   20221099009
